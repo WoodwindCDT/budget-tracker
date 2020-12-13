@@ -41,12 +41,12 @@ _LightHouse Sample Below_
   More: Checkout my Work [WoodwindCDT](https://github.com/WoodwindCDT)
 
   Used Dependencies:
+  
+  - [express](https://www.npmjs.com/package/express): "^4.17.1",
 
-    - [express](https://www.npmjs.com/package/express): "^4.17.1",
+  - [compression](https://www.npmjs.com/package/compression): "^1.7.4",
 
-    - [compression](https://www.npmjs.com/package/compression): "^1.7.4",
-
-    - [mongoose](https://www.npmjs.com/package/mongoose): "^5.11.2",
+  - [mongoose](https://www.npmjs.com/package/mongoose): "^5.11.2"
 
   ## License
   This Project is licensed via MIT
